@@ -1,0 +1,103 @@
+
+
+#royal_preloader.text .loader,
+.link,
+.link--takiri:hover,
+ul.slimmenu li a.mPS2id-highlight,
+.cbp-af-header.cbp-af-header-shrink ul.slimmenu li a.mPS2id-highlight,
+ul.slimmenu li a.cur-menu-item,
+.about-block h6 span,
+#sync1 .item h6 span,
+.list-social-team li:hover.icon-team a,
+.box-parallax p span,
+.cd-item-info p span,
+#filter li a:hover,
+#filter li .current,
+#filter2 li a:hover,
+#filter2 li .current,
+.blog-post:hover.quote-post p,
+.blog-post .arrow-to-post:hover span,
+.blog-post h6:hover,
+.link-recents a:hover,
+.content-comm .name-aut-replay span:hover,
+.box-parallax-features .icon,
+.services-box .icon,
+.contact-parallax-box p span,
+.contact-parallax-box p:hover,
+.expander-wrap .cls-btn .close:hover,
+.project-page a:hover,
+.project-block .det-name p span {
+	color:#F9690E;
+}
+.link-tag a:hover {
+	border:1px solid #F9690E;
+	background:#F9690E;
+}
+.cd-pagination .current {
+	background-color: #F9690E;
+	border-color: #F9690E;
+}
+#bar,
+ul.slimmenu li a::before,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span,
+#owl-portfolio-slider.owl-theme .owl-controls .owl-page.active span,
+#owl-portfolio-slider.owl-theme .owl-controls.clickable .owl-page:hover span,
+#owl-blog.owl-theme .owl-controls .owl-page.active span,
+#owl-blog.owl-theme .owl-controls.clickable .owl-page:hover span,
+.pro-bar,
+#owl-featured .item p::before,
+.pricing-item a.price-link,
+#ajax-form button:hover,
+.list-social li:hover,
+.sidebar input:active,
+.sidebar input:focus,
+.portfolio-box-1 .icon-1:hover,
+.portfolio-box-1 .icon-2:hover,
+.portfolio-box-1 .icon-3:hover  {
+	background: #F9690E;
+}
+.section-title h3::after {
+	background: #F9690E;
+}
+.link--mallki {
+	border:2px solid #F9690E;
+}
+.color-background,
+.box-parallax-features:hover .icon,
+.scroll-to-top:hover,
+.smk_accordion .accordion_in .acc_head:hover,
+.smk_accordion .accordion_in.acc_active > .acc_head,
+#cd-zoom-in, #cd-zoom-out  {
+	background-color: #F9690E;
+}
+.pricing-item:hover{
+	border-color:#F9690E;
+}
+.pricing-item.popular{
+	border-color:#F9690E;
+}
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active {	
+	border-bottom:1px solid #F9690E;
+}
+.sidebar input:-ms-input-placeholder  {
+	color:#F9690E;
+}
+.sidebar input::-moz-placeholder  {
+	color:#F9690E;
+}
+.sidebar input:-moz-placeholder  {
+	color:#F9690E;
+}
+.sidebar input::-webkit-input-placeholder  {
+	color:#F9690E;
+}
+::selection {
+	background: #F9690E;
+	}
+::-moz-selection {
+	background: #F9690E;
+}
